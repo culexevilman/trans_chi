@@ -6,9 +6,11 @@ Our services provide private and secure messaging, email and calling. We offer w
 
 
 
-What’s the goal of Unseen?
+What is the mission of Unseen?
 
-Open and free communications are critical in restoring the people's rights to obtain the truth. Today, data is intercepted and snooped upon for various reasons and purposes. When someone can read your information while it’s in transit, it’s easy to block the recipient from receiving or change the content all without your permission. This is the reason Unseen was built.
+To provide a safe and secure platform for dissemination of magnificent information that is ceaseless and uncontrollable.
+
+Open and free communications are critical in allowing the people to obtain the truth. Today, data is intercepted and snooped upon for various reasons and purposes. When someone can read your information while it’s in transit, it’s easy to block the recipient from receiving or change the content all without your permission. This is the reason Unseen was built. We also believe in giving support for groups or individuals who needs security and privacy, like media reporters, whisle-blowers, people who living under state-control and media-censorship. Especially heavily persecuted groups in Communist countries such as Falun Gong, Christians, Tibetans etc.
 
 
 
@@ -84,19 +86,15 @@ For calling, you have to be both using Unseen. That’s the only way we can guar
 
 Isn’t a web service less secure?
 
-Our services are developed to provide the highest level of security widely available on the web. Apps specific to a particular operating system are custom tailored, so they do offer more security, but the web app is extremely convenient because you can get your messages anywhere with access to the internet.
+Our services are developed to provide the highest level of security available. Apps specific to a particular operating system are custom tailored, and offer more security. But the web app is extremely convenient because you can get your messages anywhere with access to the internet.
 
 
 
-What’s the difference between the free and premium?
+What’s the difference between the basic and premium accounts?
 
-Free:
+Basic accounts provides lightweight security for your online communication needs, a modest amount of storage with standard encryption, Limited calling features and basic email.
 
-Provides a modest amount of storage with standard encryption,  Limited calling features and basic email.
-
-Premium:
-
-Provides 2GB of storage with the strongest tier of encryption available, with up to 40GB of file sharing, unlimited individual and group calling, and the ability to generate and store their own private key.
+Premium accounts offers maximum security for your online communication needs, 2GB of storage with the strongest tier of encryption available, up to 40GB of file sharing, unlimited individual and group calling, and the ability to generate and store your own private key.
 
 
 Do you keep login data of any kind?
@@ -131,13 +129,13 @@ Want to earn money while spreading the word about Unseen? We offer an highly com
 
 I have forgotten my password and/or username, how do I retrieve them?
 
-When at the Unseen login page, click on the ’Forgot Password’ link. Enter your username or email id and click on the ’Reset password’. WARNING: if you reset your password. You will lose all access to previous messages and data, tis is done for your protection.
+When at the Unseen login page, click on the ’Forgot Password’ link. Enter your username or email id and click on the ’Reset password’. WARNING: if you reset your password. You will lose all access to previous messages and data, this is done for your protection.
 
 
 
 What payment methods do you accept?
 
-We currently accept the following payment methods: Paypal, Korta, and Bitcoins
+We currently accept the following payment methods: Paypal, all major credit cards processed via Korta in Iceland, and also Bitcoins.
 
 
 
