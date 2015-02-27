@@ -10,7 +10,7 @@ What is the mission of Unseen?
 
 To provide a safe and secure platform for dissemination of magnificent information that is ceaseless and uncontrollable.
 
-Open and free communications are critical in allowing the people to obtain the truth. Today, data is intercepted and snooped upon for various reasons and purposes. When someone can read your information while it’s in transit, it’s easy to block the recipient from receiving or change the content all without your permission. This is the reason Unseen was built. We also believe in giving support for groups or individuals who needs security and privacy, like media reporters, whisle-blowers, people who living under state-control and media-censorship. Especially heavily persecuted groups in Communist countries such as Falun Gong, Christians, Tibetans etc.
+Open and free communications are critical in allowing the people to obtain the truth. Today, data is intercepted and snooped upon for various reasons and purposes. When someone can read your information while it’s in transit, it’s easy to block the recipient from ever receiving or change the content all without your permission. This is the reason Unseen was built. We also believe in giving support for groups or individuals who needs security and privacy, like media reporters, whisle-blowers, people who living under state-control and media-censorship. Especially heavily persecuted groups in Communist countries such as Falun Gong, Christians, Tibetans etc.
 
 
 
@@ -109,7 +109,7 @@ Because we’re based in Iceland, we are bound by Icelandic laws. So if we recei
 
 
 
-How do I upgrade my free account to premium?
+How do I upgrade my basic account to premium?
 
 To upgrade your account, just log into your account and click on the Upgrade to Premium button in the menu bar at the top of the page. From here you will be taken to a payment page. If you are only purchasing a single upgrade, the account you are logged into will be upgraded automatically after payment.
 
