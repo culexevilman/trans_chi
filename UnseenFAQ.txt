@@ -14,19 +14,19 @@ Open and free communications are critical in allowing the people to obtain truth
 
 
 
-Where are you based?
+Where is Unseen based?
 
 Our company and servers are based in Iceland, protected by some of the strictest data privacy laws on the planet.
 
 
 
-On what platforms is Unseen available?
+What platforms is Unseen available on?
 
 We are currently in beta with apps available for Web browsers, Windows, Mac OS X and Ubuntu Linux. Android is available now and iOS is coming soon.
 
 
 
-Why do I need this service?
+Why do I need Unseen?
 
 If you value privacy, security and freedom, then you need to start protecting your online communications today. Most email and chat, and social networking sites do not value users privacy and security, they are hacked consistently, and read your personal messages to target advertise and other nefarious purposes.
 
@@ -38,13 +38,13 @@ We provide end to end encryption for all transmissions of data. Data is encrypte
 
 
 
-What kind of encryption do you offer?
+What kind of encryption does Unseen offer?
 
-We utilize industry standard openPGP encryption for email and TLS 2048bit for audio/video calls. For chat we use an much stronger xAES algorithm and NTRU for key exchanging instead of RSA, as RSA is known to be broken, long key generation times on mobile devices etc.
+We utilize industry standard openPGP encryption for email and TLS 2048 bits for audio/video calls. For chat we use an much stronger xAES algorithm and NTRU for key exchanging instead of RSA, as RSA is known to be broken, long key generation times on mobile devices etc.
 
 
 
-How do you prevent someone from getting access to my data?
+How does Unseen prevent someone from getting access to my data?
 
 Data from each of your messages is encrypted separately with your key, so even we can’t decrypt your messages.
 
@@ -56,7 +56,7 @@ If you use only p2p connections, none of your data will be on our servers, so if
 
 Do you offer encrypted file storage?
 
-As of now, the quality and security that goes into each GB we offer is unparalleled. So with such an advanced infrastructure, encryption is applied only to files sent through our system. Encryption is not yet available for files stored on your local computer. However, our new cloud storage based in Iceland is in the works.
+The quality and security that goes into each GB we offer is unparalleled. So with such an advanced infrastructure, encryption is applied only to files sent through our system. Encryption is not yet available for files stored on your local computer. However, our new cloud storage based in Iceland is in the works.
 
 
 
@@ -68,11 +68,11 @@ It’s a complete secure and isolated email address compared with the rest of yo
 
 
 
-Can I send emails/chat messages to parties outside of Unseen?
+Can I send emails/chat messages to people outside of Unseen?
 
 You can send emails to third party addresses. In most cases emails sent to third party addresses will be unencrypted. You can also send encrypted emails to third party addresses, but they would need to utilize the same level of encryption that we use and you would need your recipients public key. Otherwise it would be impossible for them to decrypt the message. If you don’t have your recipients public key, your message will be sent without any encryption.
 
-It’s highly recommended for both of you to use Unseen's Email because the content will not be transmitted over the internet as regular email. It’ll go from your computer directly to our secured servers, then to the recipient’s computer in a heavily encrypted tunnel.
+It’s highly recommended for both of you to use Unseen, simply because the content will not be transmitted over the internet as regular email. It’ll go from your computer directly to our secured servers, then to the recipient’s computer in a heavily encrypted tunnel.
 
 The highly secure chat feature is only available from user to user with Unseen accounts. For chat we use a very specific and highly exclusive encryption that no other services provides, so they would never be able to read the messages you sent them.
 
@@ -90,7 +90,7 @@ Our services are developed to provide the highest level of security available. A
 
 
 
-What’s the difference between the basic and premium accounts?
+What’s the difference between Unseen basic and premium accounts?
 
 Basic accounts provides lightweight security for your online communication needs, a modest amount of storage with standard encryption, Limited calling features and basic email.
 
