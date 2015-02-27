@@ -68,11 +68,15 @@ It’s a complete secure and isolated email address compared with the rest of yo
 
 
 
-Can I send emails/chat messages to people outside of Unseen?
+Can I send emails to people outside of Unseen?
 
 You can send emails to third party addresses. In most cases emails sent to third party addresses will be unencrypted. You can also send encrypted emails to third party addresses, but they would need to utilize the same level of encryption that we use and you would need your recipients public key. Otherwise it would be impossible for them to decrypt the message. If you don’t have your recipients public key, your message will be sent without any encryption.
 
 It’s highly recommended for both of you to use Unseen, simply because the content will not be transmitted over the internet as regular email. It’ll go from your computer directly to our secured servers, then to the recipient’s computer in a heavily encrypted tunnel.
+
+
+
+Can I send chat messages to people outside of Unseen?
 
 The highly secure chat feature is only available from user to user with Unseen accounts. For chat we use a very specific and highly exclusive encryption that no other services provides, so they would never be able to read the messages you sent them.
 
@@ -80,7 +84,7 @@ The highly secure chat feature is only available from user to user with Unseen a
 
 For audio or video calling, do both sides need to be using Unseen?
 
-For calling, you have to be both using Unseen. That’s the only way we can guarantee your security and that things are compatible. Calls are cross-platform compatible between web, desktop and mobile apps.
+For calling, you both have to be using Unseen. It’s the only way we can guarantee your security and that things are compatible. Calls are cross-platform compatible between web, desktop and mobile apps.
 
 
 
@@ -123,13 +127,13 @@ If you are purchasing upgrades to bulk accounts, please contact us so we can pro
 
 Do you offer an affiliate program?
 
-Want to earn money while spreading the word about Unseen? We offer an highly competitive affiliate program for you. If you would like to sign up. Please contact support at support@unseen.is with subject: Request application to join Affiliate Program.
+Want to earn money while spreading the word about Unseen? We offer an highly competitive affiliate program for you. If you would like to sign up. Please contact support at support@unseen.is with subject: Request to join AP.
 
 
 
 I have forgotten my password and/or username, how do I retrieve them?
 
-When at the Unseen login page, click on the ’Forgot Password’ link. Enter your username or email id and click on the ’Reset password’. WARNING: if you reset your password. You will lose all access to previous messages and data, this is done for your protection.
+When at the Unseen login page, click on the ’Forgot Password’ link. Enter your username or email id and click on the ’Reset password’. WARNING!: if you reset your password. You will lose all access to previous messages and data, this is done for your protection.
 
 
 
@@ -146,4 +150,4 @@ Absolutely yes! While we hate to see you go, if for any reason you are not satis
 
 How do I delete my Unseen account?
 
-If you don't plan on using your Unseen account ever again. You can always just delete your account from the app settings. Please be aware that there is a 2 weeks long account removal procedure that is irreversible before account data is erased completely.
+If you don't plan on using your Unseen account ever again. You can always just delete your account from the app settings. Please be aware that there is an irreversible removal procedure that can take up to two weeks,  before account data is erased completely.
