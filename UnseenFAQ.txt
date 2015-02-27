@@ -4,138 +4,148 @@ What does Unseen do?
 
 Our services provide private and secure messaging, email and calling. We offer web, mobile and desktop apps that will allow secure communication wherever you are.
 
- 
+
 
 What’s the goal of Unseen?
 
 Open and free communications are critical in restoring the people's rights to obtain the truth. Today, data is intercepted and snooped upon for various reasons and purposes. When someone can read your information while it’s in transit, it’s easy to block the recipient from receiving or change the content all without your permission. This is the reason Unseen was built.
 
- 
+
 
 Where are you based?
 
 Our company and servers are based in Iceland, protected by some of the strictest data privacy laws on the planet.
 
- 
+
 
 On what platforms is Unseen available?
 
 We are currently in beta with apps available for Web browsers, Windows, Mac OS X and Ubuntu Linux. Android is available now and iOS is coming soon.
 
- 
+
 
 Why do I need this service?
 
 If you value privacy, security and freedom, then you need to start protecting your online communications today. Most email and chat, and social networking sites do not value users privacy and security, they are hacked consistently, and read your personal messages to target advertise and other nefarious purposes.
 
- 
+
 
 How does it work?
 
 We provide end to end encryption for all transmissions of data. Data is encrypted and decrypted only by the sender or the receiver. We do not have the key and it will never be decrypted along the way. As its all done in the background. So to the end-user, it will just feel and work the same way as if using regular email or chat services.
 
- 
- 
+
+
 What kind of encryption do you offer?
 
-We utilize industry standard openpgp encryption for email and TLS 2048bit for audio/video calls. For chat we use an much stronger xAES algorithm and NTRU for key exchanging instead of RSA, as RSA has known to be broken, long key generation times on mobile devices etc.
+We utilize industry standard openpgp encryption for email and TLS 2048bit for audio/video calls. For chat we use an much stronger xAES algorithm and NTRU for key exchanging instead of RSA, as RSA is known to be broken, long key generation times on mobile devices etc.
 
- 
 
-How do you stop hackers from getting access to my data?
 
-Data from each of your messages is encrypted separately, with your key -- even we can’t read your messages.
+How do you prevent someone from getting access to my data?
 
-The other approach that hackers use is that they try to hack the server itself. If they are successful then it is like a treasure chest of user data. But not with Unseen. All data from each account is encrypted separately so even if a hacker got access to any data on the server, he would have no way to locate your data and even if he decrypted one small piece of data, he wouldn’t have access to the rest of the data.
+Data from each of your messages is encrypted separately with your key, so even we can’t decrypt your messages.
 
-If you use only the peer to peer client, none of your data will be on our servers, so if someone hacked our servers, they wouldn’t have access to any of your data.
- 
+We take many steps in guarding access to the server itself. All data from each account is encrypted separately so even if any data were stolen, theres no way to locate your data and even in the unlikely scenario a chunk of data was successfully stolen and decrypted, its a negligible piece of the puzzle compared to the rest.
+
+If you use only p2p connections, none of your data will be on our servers, so if someone without authorization accessed our servers, they will get nothing.
+
 
 
 Do you offer encrypted file storage?
 
-Right now, encryption is applied only to files sent through our system. Encryption is not yet available for documents stored on your local computer. However, we’re working on enabling our new cloud storage based in Iceland.
+As of now, the quality and security that goes into each GB we offer is unparalleled. So with such an advanced infrastructure, encryption is applied only to files sent through our system. Encryption is not yet available for files stored on your local computer. However, our new cloud storage based in Iceland is in the works.
 
- 
+
 
 Do I need a new email address or can I keep the one I have?
 
-You can keep the one you have, but you’ll be given a new one at unseen.is. Let’s say you get the account name penelope. The email will automatically be penelope@unseen.is.
+You can keep the one you have, but you’ll be given a new one at unseen.is. Let’s say you get the account name johndoe. The email will automatically be johndoe@unseen.is.
 
-It’s a completely separate email address from your other account.
+It’s a complete secure and isolated email address compared with the rest of your accounts.
 
- 
+
 
 Can I send emails/chat messages to parties outside of Unseen?
 
-You can send emails to third party addresses. In most cases emails sent to third party addresses will be unencrypted. You can also send encrypted emails to the third party address, but the third party email service would have to be using the same encryption that we use (currently PGP) and you would need your recipients public key. Otherwise it would be impossible for them to decrypt the message. If you don’t have your recipients public key, your message will be sent without encryption.
+You can send emails to third party addresses. In most cases emails sent to third party addresses will be unencrypted. You can also send encrypted emails to third party addresses, but they would need to utilize the same level of encryption that we use and you would need your recipients public key. Otherwise it would be impossible for them to decrypt the message. If you don’t have your recipients public key, your message will be sent without any encryption.
 
-It’s more secure for both of you if are using unseen.is because the email won’t be travelling over the internet as email. It’ll go from your computer to our server, then to the recipient’s computer in an encrypted tunnel.
+It’s highly recommended for both of you to use Unseen's Email because the content will not be transmitted over the internet as regular email. It’ll go from your computer directly to our secured servers, then to the recipient’s computer in a heavily encrypted tunnel.
 
-The chat feature is only from Unseen user to Unseen user.. For chat we use a very specific encryption that no other services use, so they would never be able to read the messages you sent them. As a result the chat is a closed system. This makes the chat system significantly more secure.
+The highly secure chat feature is only available from user to user with Unseen accounts. For chat we use a very specific and highly exclusive encryption that no other services provides, so they would never be able to read the messages you sent them.
 
- 
+
 
 For audio or video calling, do both sides need to be using Unseen?
 
-For calling, you have to both be using Unseen. That’s the only way we can guarantee you’ll be secure and that things are compatible. Calls will be able to work between the web, desktop clients (win, mac, ubuntu) and mobile apps.
+For calling, you have to be both using Unseen. That’s the only way we can guarantee your security and that things are compatible. Calls are cross-platform compatible between web, desktop and mobile apps.
 
- 
+
 
 Isn’t a web service less secure?
 
-Our services are developed to provide the highest level of security widely available on the web. We expect to continue improving and developing better solutions to protect your information. Applications specific to a particular operating system do offer more security, but the web is extremely convenient because you can get your messages anywhere, even if you are borrowing someone elses computer.
+Our services are developed to provide the highest level of security widely available on the web. Apps specific to a particular operating system are custom tailored, so they do offer more security, but the web app is extremely convenient because you can get your messages anywhere with access to the internet.
 
- 
 
-What’s the difference between the free version and the premium version?
 
-The free version provides a modest amount of free encrypted storage and allows sharing of files of up to 50MB. The premium version provides 2GB of encrypted storage, file sharing up to 40GB, group audio/video calling, and premium users can generate and store their own private key.
- 
+What’s the difference between the free and premium?
 
- 
-What if you get a request from the government to hand everything over?
+Free:
 
-Because we’re based in Iceland, we have to follow Icelandic laws. That means that if we receive a warrant for a particular person that is issued in Iceland and valid there, our Icelandic director will evaluate the request. If he finds that it’s a legally valid request and reasonable, the information we have from a particular person will have to be turned over. It’s illegal in Iceland to create a "backdoor" or give anyone bulk access to the data. Because we don’t keep the key, all messages are encrypted. We can only provide whatever data we have for the user and if the user’s profile settings don’t store data on our servers, we might have an email address and that’s about it.
+Provides a modest amount of storage with standard encryption,  Limited calling features and basic email.
 
- 
+Premium:
+
+Provides 2GB of storage with the strongest tier of encryption available, with up to 40GB of file sharing, unlimited individual and group calling, and the ability to generate and store their own private key.
+
+
+Do you keep login data of any kind?
+
+While we do value your privacy, for us to keep our service live and running, we do need retain some login data for up to 2 weeks. We do not have anything beyond that point.
+
+
+
+What if you get a request from the government to hand over information?
+
+Because we’re based in Iceland, we are bound by Icelandic laws. So if we receive a valid warrant issued in Iceland for a particular person, we will throughly evaluate the request. If in case its a legal valid and reasonable request, the information we have from that particular person will have to be turned over. Note its illegal in Iceland to create a "backdoor" or givebulk access to the data. Because we don’t keep the key, and all messages are encrypted. We can only provide whatever data we have for the user and if the user’s profile settings do not store data on our servers, we might have an email address and that’s about it.
+
+
 
 How do I upgrade my free account to premium?
 
 To upgrade your account, just log into your account and click on the Upgrade to Premium button in the menu bar at the top of the page. From here you will be taken to a payment page. If you are only purchasing a single upgrade, the account you are logged into will be upgraded automatically after payment.
 
- 
 
-I have several accounts that need to be upgraded, can this be done?
 
-If you are purchasing multiple upgrades, you will receive an upgrade code that can be used to upgrade exactly the number of accounts that you purchased. To upgrade with an upgrade code that you have previously purchased, click the ’Upgrade to Premium’ button, paste in your upgrade code in the form and submit the form.
+I have several accounts that I want to upgrade. Whats next?
 
- 
+If you are purchasing upgrades to bulk accounts, please contact us so we can provide the best pricing available to you.
+
+
 
 Do you offer an affiliate program?
 
-Do you want to earn money for referring user to Unseen? We offer an affiliate program for all of our premium account holders. If you have a premium account, you are already an Unseen affiliate. To access the affiliate area, just hover over the gear menu item in the top-right corner and select the affiliate menu item. You can find all the information you need to start earning from this page.
+Want to earn money while spreading the word about Unseen? We offer an highly competitive affiliate program for you. If you would like to sign up. Please contact support at support@unseen.is with subject: Request application to join Affiliate Program.
 
- 
 
-I have forgotten my password and/or username, how can I retrieve them?
 
-When at the Unseen login page, click on the ’Forgot Password’ link. Enter your username or email id and click on the ’Reset password’. Please not that if you have defined a different email address (other than username@unseen.is) as your primary email account, you need to check that email account for new mail and get your password from there. Alternatively you can request a password reset from the Unseen support via email (support@unseen.is) or thru the online support page at http://support.unseen.is
+I have forgotten my password and/or username, how do I retrieve them?
 
- 
+When at the Unseen login page, click on the ’Forgot Password’ link. Enter your username or email id and click on the ’Reset password’. WARNING: if you reset your password. You will lose all access to previous messages and data, tis is done for your protection.
+
+
 
 What payment methods do you accept?
 
 We currently accept the following payment methods: Paypal, Korta, and Bitcoins
 
- 
 
-My login fails, what should I do?
 
-If you were certain your password and username were correct and you cannot login, download the UnSeen Desktop Client from http://download.unseen.is as it in some cases works better than browser version. If you still cannot login, please contact the Unseen support at http://support.unseen.is or send email to support@unseen.is
+I just paid for premium, and I am not satisfied, can I ask for a refund?
 
- 
+Absolutely yes! While we hate to see you go, if for any reason you are not satisfied. Please contact us and request for a unconditional full refund within 30 days of activation.
+
 
 How do I delete my Unseen account?
 
-To delete your account please send an email to support@unseen.is from the accounts primary email address asking us to delete your account. In the future we will provide an account deletion option in your profile.
+If you don't plan on using your Unseen account ever again. You can always just delete your account from the app settings. Please be aware that there is a 2 weeks long account removal procedure that is irreversible before account data is erased completely.
