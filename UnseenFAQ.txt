@@ -40,7 +40,7 @@ We provide end to end encryption for all transmissions of data. Data is encrypte
 
 What kind of encryption do you offer?
 
-We utilize industry standard openpgp encryption for email and TLS 2048bit for audio/video calls. For chat we use an much stronger xAES algorithm and NTRU for key exchanging instead of RSA, as RSA is known to be broken, long key generation times on mobile devices etc.
+We utilize industry standard openPGP encryption for email and TLS 2048bit for audio/video calls. For chat we use an much stronger xAES algorithm and NTRU for key exchanging instead of RSA, as RSA is known to be broken, long key generation times on mobile devices etc.
 
 
 
