@@ -8,45 +8,43 @@ Our services provide private and secure messaging, email and calling. We offer w
 
 What is the mission of Unseen?
 
-To provide a safe and secure platform for dissemination of magnificent information that is ceaseless and uncontrollable.
-
 Open and free communications are critical in allowing the people to obtain truthful knowledge. Today, data is intercepted and snooped upon for various reasons and purposes. When someone can read your information while it’s in transit, it’s easy to block the recipient from ever receiving or change the content all without your permission. This is the reason Unseen was built. We also believe in giving full support for groups or individuals who needs security and privacy, like media reporters, whisle-blowers, people who living under state-control and media-censorship. Especially heavily persecuted groups in Communist countries such as Falun Gong, Christians, Tibetans etc.
 
 
 
 Where is Unseen based?
 
-Our company and servers are based in Iceland, protected by some of the strictest data privacy laws on the planet.
+Our company and servers are based in Iceland, protected by some of the strictest data privacy laws on the planet. We are a registered company within Iceland. http://www.firmaskra.is/search.php?q=unseen#
 
 
 
 What platforms is Unseen available on?
 
-We are currently in beta with apps available for Web browsers, Windows, Mac OS X and Ubuntu Linux. Android is available now and iOS is coming soon.
+We are currently in beta, and available for Web browsers like Firefox, Chrome, Opera. Apps for Windows, Mac OS X and Ubuntu Linux. Android is available now and iOS is coming soon.
 
 
 
 Why do I need Unseen?
 
-If you value privacy, security and freedom, then you need to start protecting your online communications today. Most email and chat, and social networking sites do not value users privacy and security, they are hacked consistently, and read your personal messages to target advertise and other nefarious purposes.
+If you value privacy, security and freedom, then you need to start protecting your online communications today. With most sites rely on data mining. they simply provide a "free" service that monetizes "you" as their product for revenue.
 
 
 
 How does it work?
-
-We provide end to end encryption for all transmissions of data. Data is encrypted and decrypted only by the sender or the receiver. We do not have the key and it will never be decrypted along the way. As its all done in the background. So to the end-user, it will just feel and work the same way as if using regular email or chat services.
+Encryption basically takes you data and apply a special formula to it, so it becomes a scrambled gibberish that only readable by the sender and the receiver.
+We provide end to end encryption for all transmissions of data. We do not have the key and it will never be decrypted along the way. As its all done in the background. So to the end-user, it will just feel and work the same way as if using regular email or chat services.
 
 
 
 What kind of encryption does Unseen offer?
 
-We utilize industry standard openPGP encryption for email and TLS 2048 bits for audio/video calls. For chat we use an much stronger xAES algorithm and NTRU for key exchanging instead of RSA, as RSA is known to be broken, long key generation times on mobile devices etc.
+We utilize industry standard openPGP encryption for email and TLS 2048 bits for audio/video calls. For chat we use a much stronger xAES algorithm and NTRU for key exchanging instead of RSA, as RSA is known to be broken, long key generation times on mobile devices etc.
 
 
 
 How does Unseen prevent someone from getting access to my data?
 
-Data from each of your messages is encrypted separately with your key, so even we can’t decrypt your messages.
+You will generate your own key and keep the only copy. Data from each of your messages is encrypted separately with your key, so even we can’t decrypt your messages.
 
 We take many steps in guarding access to the server itself. All data from each account is encrypted separately so even if any data were stolen, theres no way to locate your data and even in the unlikely scenario a chunk of data was successfully stolen and decrypted, its a negligible piece of the puzzle compared to the rest.
 
@@ -62,23 +60,25 @@ The quality and security that goes into each GB we offer is unparalleled. So wit
 
 Do I need a new email address or can I keep the one I have?
 
-You can keep the one you have, but you’ll be given a new one at unseen.is. Let’s say you get the account name johndoe. The email will automatically be johndoe@unseen.is.
+You can keep the one you have, but you’ll be given a new one at unseen.is. Let’s say you get the account name johndoe at Unseen. The email will automatically be johndoe@unseen.is.
 
-It’s a complete secure and isolated email address compared with the rest of your accounts.
+It’s a secure and isolated email address compared with the rest of your accounts.
 
 
 
 Can I send emails to people outside of Unseen?
 
-You can send emails to third party addresses. In most cases emails sent to third party addresses will be unencrypted. You can also send encrypted emails to third party addresses, but they would need to utilize the same level of encryption that we use and you would need your recipients public key. Otherwise it would be impossible for them to decrypt the message. If you don’t have your recipients public key, your message will be sent without any encryption.
+You can send emails to any valid email address. In most cases emails sent to outside of Unseen will be unencrypted. You can also send encrypted emails to third party addresses, but they would need to utilize the same level of encryption that we use and you would need your recipient's public key. Otherwise it would be impossible for them to decrypt the message. If you don’t have your recipient's public key, your message will be sent without any encryption.
 
 It’s highly recommended for both of you to use Unseen, simply because the content will not be transmitted over the internet as regular email. It’ll go from your computer directly to our secured servers, then to the recipient’s computer in a heavily encrypted tunnel.
+
+https://blog.unseen.is/2014/03/26/email-cant-be-completely-private-or-secure/#awesm=f8715e452f17b232e801f1ae55c07447
 
 
 
 Can I send chat messages to people outside of Unseen?
 
-The highly secure chat feature is only available from user to user with Unseen accounts. For chat we use a very specific and highly exclusive encryption that no other services provides, so they would never be able to read the messages you sent them.
+Nope, the highly secure chat feature is only available from user to user with Unseen accounts. For chat we use a proprietary technology thats simply not compatible with other services.
 
 
 
@@ -90,26 +90,32 @@ For calling, you both have to be using Unseen. It’s the only way we can guaran
 
 Isn’t a web service less secure?
 
-Our services are developed to provide the highest level of security available. Apps specific to a particular operating system are custom tailored, and offer more security. But the web app is extremely convenient because you can get your messages anywhere with access to the internet.
+Our web services are developed to provide the highest level of security available. Apps specific to a particular operating system while do offer more security. But the web app is extremely convenient because you can get your messages on any machine anywhere.
+
+
+What’s the difference between Unseen Basic and Premium accounts?
+
+Basic accounts provides a modest amount of storage with standard encryption, and limited calling features.
+
+Premium accounts offers maximum security for your online communication needs, secure email account with 2GB of storage and the strongest tier of encryption available, also up to 100MB of file sharing, unlimited individual and group calling, plus the ability to generate and store your own private key.
 
 
 
-What’s the difference between Unseen basic and premium accounts?
+What's this Lifetime account I am hearing?
 
-Basic accounts provides lightweight security for your online communication needs, a modest amount of storage with standard encryption, Limited calling features and basic email.
-
-Premium accounts offers maximum security for your online communication needs, 2GB of storage with the strongest tier of encryption available, up to 40GB of file sharing, unlimited individual and group calling, and the ability to generate and store your own private key.
+Lifetime was a limited time offer for the early adopters of Unseen, they were there using Unseen from the start. It has the exact same features as Premium. But don't worry, we have plenty of cool new perks and features for Premium users coming very soon.
 
 
-Do you keep login data of any kind?
 
-While we do value your privacy, for us to keep our service live and running, we do need retain some login data for up to 2 weeks. We do not have anything beyond that point.
+Do you keep logs of data?
+
+Our data retention policy is simple, we keep limited logs for 2 weeks to prevent abuse. After 2 weeks its destroyed. We do not have anything beyond that point.
 
 
 
 What if you get a request from the government to hand over information?
 
-Because we’re based in Iceland, we are bound by Icelandic laws. So if we receive a valid warrant issued in Iceland for a particular person, we will throughly evaluate the request. If in case its a legal valid and reasonable request, the information we have from that particular person will have to be turned over. Note its illegal in Iceland to create a "backdoor" or givebulk access to the data. Because we don’t keep the key, and all messages are encrypted. We can only provide whatever data we have for the user and if the user’s profile settings do not store data on our servers, we might have an email address and that’s about it.
+Because we’re based in Iceland, we are bound by Icelandic laws. We only follow orders from Icelandic courts. If we receive a valid warrant issued in Iceland, we will throughly evaluate the request. If in case its a legal valid request, then the information we have will have to be turned over to the courts. Note its not permitted to create backdoors or give bulk access to the data. Because we don’t keep the key, and all messages are encrypted. We can only provide encrypted files and any related logs.
 
 
 
@@ -121,33 +127,33 @@ To upgrade your account, just log into your account and click on the Upgrade to 
 
 I have several accounts that I want to upgrade. Whats next?
 
-If you are purchasing upgrades to bulk accounts, please contact us so we can provide the best pricing available to you.
+If you are purchasing upgrades to bulk accounts, please contact us at support@unseen.is, so we can provide the best pricing available to you.
 
 
 
 Do you offer an affiliate program?
 
-Want to earn money while spreading the word about Unseen? We offer an highly competitive affiliate program for you. If you would like to sign up. Please contact support at support@unseen.is with subject: Request to join AP.
+Want to earn money while spreading the word about Unseen? We offer an highly competitive affiliate program for you. If you would like to sign up. Please contact support at support@unseen.is with subject: Request to join affiliate program.
 
 
 
 I have forgotten my password and/or username, how do I retrieve them?
 
-When at the Unseen login page, click on the ’Forgot Password’ link. Enter your username or email id and click on the ’Reset password’. WARNING!: if you reset your password. You will lose all access to previous messages and data, this is done for your protection.
+When at the Unseen home page, click on the ’Forgot Password’ link. Enter your username or email id and click on the ’Reset password’. WARNING!: if you reset your password. You will lose all access to previous messages and data plus encrypted emails, this is done for your protection.
 
 
 
 What payment methods do you accept?
 
-We currently accept the following payment methods: Paypal, all major credit cards processed via Korta in Iceland, and also Bitcoins.
+We currently accept the following payment methods: Paypal, VISA and MasterCard, with credit/debit cards processed via Korta in Iceland, and also Bitcoins.
 
 
 
-I just paid for premium, and I am not satisfied, can I ask for a refund?
+Can I ask for a refund?
 
-Absolutely yes! While we hate to see you go, if for any reason you are not satisfied. Please contact us and request for a unconditional full refund within 30 days of activation.
+Absolutely yes! While we hate to see you go, if for any reason you are not satisfied. Please contact us at support@unseen.is and request for a full refund within 30 days of purchase.
 
 
 How do I delete my Unseen account?
 
-If you don't plan on using your Unseen account ever again. You can always just delete your account from the app settings. Please be aware that there is an irreversible removal procedure that can take up to two weeks,  before account data is erased completely.
+If you don't plan on using your Unseen account ever again. You can always just delete your account from the app settings. Please be aware that there is an irreversible removal procedure that can take up to 14 days, before account data is erased completely.
