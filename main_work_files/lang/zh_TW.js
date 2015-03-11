@@ -1,10 +1,11 @@
 var en_dictionary = {
-    'button.create': '創建',
+    'button.create': '建立',
     'button.cancel': '取消',
     'button.clear': '清除',
     'button.add': '增加',
     'button.decline': '拒絕',
     'button.accept': '接受',
+    'button.update': '更新',
     'button.close': '關閉',
     'button.send.invitation': '發送邀請',
     'button.send.message': '發送訊息',
@@ -204,8 +205,8 @@ var en_dictionary = {
     'group.name.changed.to': '群組重新命名為',
     'login.logging.in': '登入中...',
     'passphrase.email.the.hint': '通過電子郵件發送提示，以恢復您的密碼 ...',
-    'passphrase.leaving.all.groups': '保留所有團體...',
-    'passphrase.reset.your.keypair': '重置您的密鑰對...',
+    'passphrase.leaving.all.groups': '離開所有群組...',
+    'passphrase.reset.your.keypair': '重置您的鑰匙...',
     'passphrase.saving.passphrase': '保存密碼 ...',
     'passphrase.saved.your.passphrase': '已保存您的密碼.',
     'passphrase.could.not.save.passphrase': '無法保存密碼, 請與系統管理員聯繫',
@@ -260,8 +261,8 @@ var en_dictionary = {
     'chat.conversation.key.broken.create.new.one': "此聊天鑰匙損壞無法解密. 請選擇 OK 建立新的聊天.",
 
 
-    'sign.up.premium.account' : "註冊高級用戶",
-    'sign.up.free.account' : "註冊免費用戶",
+    'sign.up.premium.account' : "註冊高級帳戶",
+    'sign.up.free.account' : "免費註冊基本用戶",
 
     'filter.no_results' : "查詢無结果!",
     'filter.one_result' : "1 個结果.",

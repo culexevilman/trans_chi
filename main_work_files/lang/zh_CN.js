@@ -1,5 +1,5 @@
 var en_dictionary = {
-    'button.create': '创建',
+    'button.create': '建立',
     'button.cancel': '取消',
     'button.clear': '清除',
     'button.add': '增加',
@@ -178,7 +178,7 @@ var en_dictionary = {
     'keypairencrypter.your.passphase.contains.a.password.string': '通行口令中包含密码字符串，请更换其他通行口令',
     'secret.message.friend.twiter': '我的隐秘讯息：％S',
     'invite.friend.twiter': '与我一起上Unseen: %s',
-    'invite.friend.msg': "您好!\n\n您已被%s邀请加入Unseen，安全隐秘的聊天应用程序.\n在您注册后，您将可以给%s发送安全隐秘的讯息，保持联系，分享照片及更多.\n\n点击这里免费加入：\nhttp://unseen.is\n\nUnseen是安全隐秘世界一流的通讯软件，专为各大小公司企业及大众量身打造，简单易用，即使处于极度敏感的环境之下，Unseen依然能为您提供军用级的加密，保护您珍贵的个人及商业信息.\n\n为保护您的自由，现在就注册Unseen免费帐号：http://unseen.is",
+    'invite.friend.msg': "您好!\n\n您已被%s邀请加入Unseen，安全隐秘的聊天应用程序.\n在您注册后，您将可以给%s发送安全隐秘的讯息，保持联系，分享照片及更多.\n\n点击这里免费加入：\nhttp://unseen.is\n\nUnseen是安全隐秘世界一流的通讯软件，专为各大小公司企业及大众量身打造，简单易用，即使处于极度敏感的环境之下，Unseen依然能为您提供军用级的加密，保护您珍贵的个人及商业信息.\n\n为保护您的自由，现在就注册免费的Unseen基本帐号：http://unseen.is",
     'invite.friend.email.msg': "您好!\n\n我的网络安全最近大幅升级，我的Unseen帐号开通了.Unseen提供安全的电子邮件， 通话和聊天系统，数据库托管在冰岛.\n\n不到一分钟就可注册免费帐号，将可以与我发送隐秘安全的信息，保持联系，分享照片档案及更多功能.\n\n点击这里免费加入:\nhttps://unseen.is\n\n点击以上链接，注册一个Unseen帐号，我们将自动联系.\n\n谢谢!",
     'chatarea.show.encrypted': '显示加密',
     'chatarea.show.plaintext': '显示纯文本',
@@ -205,8 +205,8 @@ var en_dictionary = {
     'groupchat.room.name.empty':'群聊重新命名为!',
     'login.logging.in': '登录中...',
     'passphrase.email.the.hint': '通过电子邮件发送提示，以恢复您的密码 ...',
-    'passphrase.leaving.all.groups': '保留所有团体...',
-    'passphrase.reset.your.keypair': '重置您的密钥对...',
+    'passphrase.leaving.all.groups': '离开所有群組...',
+    'passphrase.reset.your.keypair': '重置您的钥匙...',
     'passphrase.saving.passphrase': '保存密码 ...',
     'passphrase.saved.your.passphrase': '已保存您的密码.',
     'passphrase.could.not.save.passphrase': '无法保存密码，请与系统管理员联系',
@@ -261,8 +261,8 @@ var en_dictionary = {
     'chat.conversation.key.broken.create.new.one': "此聊天钥匙损坏无法解密.请选择 OK 建立新的聊天.",
 
 
-    'sign.up.premium.account' : "注册高级版用户",
-    'sign.up.free.account' : "注册免费用户",
+    'sign.up.premium.account' : "注册高级帐户",
+    'sign.up.free.account' : "免费注册基本帐户",
 
     'filter.no_results' : "查询无结果!",
     'filter.one_result' : "1个结果.",
@@ -290,7 +290,7 @@ var en_dictionary = {
     'common.browserupgrade.header': "请立即升级您的浏览器!",
     'common.browserupgrade.paragraph1' : "我们的服务使用最新的技术，需要支持的HTML5和WebRTC的浏览器,以得到安全的语音/视频通话.",
     'common.browserupgrade.paragraph2' : "为了获取最佳体验，我们强烈建议您使用Chrome／Firefox／Opera浏览器.",
-    'common.browserupgrade.closeMessage' : "我们目前并不支持的Internet Explorer!",
+    'common.browserupgrade.closeMessage' : "我们目前并不支持Internet Explorer!",
 
     'secret.questions.item.1':    "您最喜欢的老师的姓氏是什么?",
     'secret.questions.item.2':    "儿时您最喜欢的食物是什么?",
